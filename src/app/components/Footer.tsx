@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="flex flex-wrap justify-between items-center">
           <div className="w-full md:w-1/3 text-center md:text-left mb-6 md:mb-0">
             <h3 className="text-lg font-semibold text-[#06b6d4]">
-              Meer Talal's Portfolio
+              Meer Talal&apos;s Portfolio
             </h3>
             <p className="mt-2">
               Thank you for visiting my personal portfolio website. Connect with

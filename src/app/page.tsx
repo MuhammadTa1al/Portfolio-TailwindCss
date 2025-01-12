@@ -27,10 +27,10 @@ export default function Home() {
               Welcome to my portfolio website!
             </p>
             <h1 className="text-4xl font-bold leading-tight mb-2">
-              Hey I'm <span className="text-[#facc15]">Meer Talal</span>
+              Hey I&apos;m <span className="text-[#facc15]">Meer Talal</span>
             </h1>
             <h2 className="text-3xl font-bold leading-tight mb-4">
-              I'm into{" "}
+              I&apos;m into{" "}
               <TypeAnimation
                 sequence={[
                   "Web Development",
