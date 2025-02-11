@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 
 const educationData = [
   {
-    degree: "Bachelor in Computer Science",
+    degree: "Intermidate in Computer Science",
     institution: "Govt degree science & commerce college",
     year: "2024",
     status: "Present",
